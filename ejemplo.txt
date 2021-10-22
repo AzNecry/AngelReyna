@@ -1,1 +1,3 @@
-Les deseo el mejor de los éxitos con su práctica =)
+#/bin/bash
+echo "No estoy muy familiarizado con git y me pierdo varias veces en el orden de los comandos pero siento que aprender algo seria muy facil solo es cuestion de saber el orden porque los comandos son muy simples"
+
